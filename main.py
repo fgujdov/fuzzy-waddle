@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor
 import shutil
 
 # ========== تنظیمات لاکچری ==========
-BOT_TOKEN = "8793482183:AAEGUa7ZEURP26N34DzKvrudnndC3q7apBk"
+BOT_TOKEN = "8945576043:AAEPBEQzmwdupjnfB3WEJBq9m0gHWOQK-p4"
 ADMIN_IDS = [8680457924]
 bot = telebot.TeleBot(BOT_TOKEN)
 
